@@ -1,0 +1,16 @@
+{"Escuela":
+[
+{
+    "alumnos":[
+    {"Nombre":"Emilio", "Edad":19},
+    {"Nombre":"Jose","Edad":20 },
+    {"Nombre":"JosEmilio","Edad":21}]
+},
+
+{"Clases":[
+        {"Nombre":"SO", "Alumnos":15},
+        {"Nombre":"POO", "Alumnos": 22}
+    ]
+}
+]
+}
